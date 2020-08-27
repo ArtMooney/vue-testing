@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>KUKEN</h1>
+    <h1>DICK</h1>
   </div>
 </template>
 
